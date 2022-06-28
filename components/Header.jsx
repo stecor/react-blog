@@ -16,14 +16,14 @@ const Header = () => {
         <div className="text-center  lg:float-left  lg:flex lg:justify-center">
           <Image
             src="/logo.jpg"
-            alt="Igreja Missão Toronto"
+            alt="Updated Blog"
             width="80px"
             height="80px"
             className=" h-80 w-full rounded-full object-top  shadow-lg lg:rounded-full"
           />
           <Link href="/">
             <span className=" float-left mt-5 ml-7 cursor-pointer  text-5xl font-bold text-white">
-              Igreja Missão Toronto
+              Updated Blog
             </span>
           </Link>
         </div>

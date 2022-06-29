@@ -8,7 +8,7 @@ const Home = ({ posts }) => {
   return (
     <div className="container mx-auto mb-8  px-10">
       <Head>
-        <title>Stefano Corra Blog</title>
+        <title>Updated Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FeaturedPosts />
